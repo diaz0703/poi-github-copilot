@@ -1,0 +1,15 @@
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\04 TACOCAT\tacocat\obj\Debug\net8.0\tacocat.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\04 TACOCAT\tacocat\obj\Debug\net8.0\tacocat.AssemblyInfoInputs.cache
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\04 TACOCAT\tacocat\obj\Debug\net8.0\tacocat.AssemblyInfo.cs
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\04 TACOCAT\tacocat\obj\Debug\net8.0\tacocat.csproj.CoreCompileInputs.cache
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\04 TACOCAT\tacocat\obj\Debug\net8.0\tacocat.sourcelink.json
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\04 TACOCAT\tacocat\bin\Debug\net8.0\tacocat.exe
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\04 TACOCAT\tacocat\bin\Debug\net8.0\tacocat.deps.json
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\04 TACOCAT\tacocat\bin\Debug\net8.0\tacocat.runtimeconfig.json
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\04 TACOCAT\tacocat\bin\Debug\net8.0\tacocat.dll
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\04 TACOCAT\tacocat\bin\Debug\net8.0\tacocat.pdb
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\04 TACOCAT\tacocat\obj\Debug\net8.0\tacocat.dll
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\04 TACOCAT\tacocat\obj\Debug\net8.0\refint\tacocat.dll
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\04 TACOCAT\tacocat\obj\Debug\net8.0\tacocat.pdb
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\04 TACOCAT\tacocat\obj\Debug\net8.0\tacocat.genruntimeconfig.cache
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\04 TACOCAT\tacocat\obj\Debug\net8.0\ref\tacocat.dll
