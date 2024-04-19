@@ -1,0 +1,15 @@
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\05 TACOCAR\tacocar\bin\Debug\net8.0\tacocar.exe
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\05 TACOCAR\tacocar\bin\Debug\net8.0\tacocar.deps.json
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\05 TACOCAR\tacocar\bin\Debug\net8.0\tacocar.runtimeconfig.json
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\05 TACOCAR\tacocar\bin\Debug\net8.0\tacocar.dll
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\05 TACOCAR\tacocar\bin\Debug\net8.0\tacocar.pdb
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\05 TACOCAR\tacocar\obj\Debug\net8.0\tacocar.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\05 TACOCAR\tacocar\obj\Debug\net8.0\tacocar.AssemblyInfoInputs.cache
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\05 TACOCAR\tacocar\obj\Debug\net8.0\tacocar.AssemblyInfo.cs
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\05 TACOCAR\tacocar\obj\Debug\net8.0\tacocar.csproj.CoreCompileInputs.cache
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\05 TACOCAR\tacocar\obj\Debug\net8.0\tacocar.sourcelink.json
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\05 TACOCAR\tacocar\obj\Debug\net8.0\tacocar.dll
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\05 TACOCAR\tacocar\obj\Debug\net8.0\refint\tacocar.dll
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\05 TACOCAR\tacocar\obj\Debug\net8.0\tacocar.pdb
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\05 TACOCAR\tacocar\obj\Debug\net8.0\tacocar.genruntimeconfig.cache
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\05 TACOCAR\tacocar\obj\Debug\net8.0\ref\tacocar.dll
