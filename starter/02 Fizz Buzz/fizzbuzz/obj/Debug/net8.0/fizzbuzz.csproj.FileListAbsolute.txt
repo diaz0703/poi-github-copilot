@@ -1,0 +1,15 @@
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\02 Fizz Buzz\fizzbuzz\obj\Debug\net8.0\fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\02 Fizz Buzz\fizzbuzz\obj\Debug\net8.0\fizzbuzz.AssemblyInfoInputs.cache
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\02 Fizz Buzz\fizzbuzz\obj\Debug\net8.0\fizzbuzz.AssemblyInfo.cs
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\02 Fizz Buzz\fizzbuzz\obj\Debug\net8.0\fizzbuzz.csproj.CoreCompileInputs.cache
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\02 Fizz Buzz\fizzbuzz\obj\Debug\net8.0\fizzbuzz.sourcelink.json
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\02 Fizz Buzz\fizzbuzz\bin\Debug\net8.0\fizzbuzz.exe
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\02 Fizz Buzz\fizzbuzz\bin\Debug\net8.0\fizzbuzz.deps.json
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\02 Fizz Buzz\fizzbuzz\bin\Debug\net8.0\fizzbuzz.runtimeconfig.json
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\02 Fizz Buzz\fizzbuzz\bin\Debug\net8.0\fizzbuzz.dll
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\02 Fizz Buzz\fizzbuzz\bin\Debug\net8.0\fizzbuzz.pdb
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\02 Fizz Buzz\fizzbuzz\obj\Debug\net8.0\fizzbuzz.dll
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\02 Fizz Buzz\fizzbuzz\obj\Debug\net8.0\refint\fizzbuzz.dll
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\02 Fizz Buzz\fizzbuzz\obj\Debug\net8.0\fizzbuzz.pdb
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\02 Fizz Buzz\fizzbuzz\obj\Debug\net8.0\fizzbuzz.genruntimeconfig.cache
+C:\DiscoD\code\Curso\github\poi-github-copilot\starter\02 Fizz Buzz\fizzbuzz\obj\Debug\net8.0\ref\fizzbuzz.dll
